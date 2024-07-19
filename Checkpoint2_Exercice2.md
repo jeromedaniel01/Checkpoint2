@@ -51,6 +51,23 @@ une erreur dans l'ajout du groupe a integrer   ,il manquait un S a utilisateurS 
 ![verifajoutdescrip](https://github.com/user-attachments/assets/d5b7682f-7f37-4192-a81e-c017abfd16f9)
 
 
+#Q2.7
+
+j'ai supprimé dans la variable Users les informations qui n'ont pas besoin d'etre importées à partir du fichier .CSV 
+
+![filtreinfo](https://github.com/user-attachments/assets/9a8d0d77-7825-4723-94ba-029c0f07745b)
+
+#Q2.8
+
+Pour afficher le mot de passe en vert ,j'ai modifié le script comme ceci 
+
+![script mot de passe en vert](https://github.com/user-attachments/assets/8abb69d9-6fbe-43df-b866-2e03d52945ac)
+
+![mot de passe en vert](https://github.com/user-attachments/assets/28f57c69-8d31-49e0-9537-15129a40fbc8)
+
+
+
+
 
 
 
