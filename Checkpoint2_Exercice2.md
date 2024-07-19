@@ -109,7 +109,8 @@ Pour changer le mot de passe a  12 caracteres au lieu de 6 il faut changer l'inf
 pour sortir du script avec la touche "entrée" une fois l'execution terminée   j'ai supprimé  pause et ajouter a la place de la phrase start-sleep  
 la ligne Read-host -Prompt " appuyez sur entrée pour quitter"
 
-![utilisateur existe deja](https://github.com/user-attachments/assets/60fa44f5-8428-469d-b6d7-b34ac00505a7)
+![sortiescript](https://github.com/user-attachments/assets/aaf00242-fede-4f51-874a-d2692e33b186)
+
 
 #Q2.16 
 
