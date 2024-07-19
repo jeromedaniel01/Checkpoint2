@@ -104,6 +104,27 @@ Pour changer le mot de passe a  12 caracteres au lieu de 6 il faut changer l'inf
 
 ![12caracteres](https://github.com/user-attachments/assets/f52d5a7c-85d4-449f-9b7a-20f07239ba7f)
 
+#Q2.15
+
+pour sortir du script avec la touche "entrée" une fois l'execution terminée   j'ai supprimé  pause et ajouter a la place de la phrase start-sleep  
+la ligne Read-host -Prompt " appuyez sur entrée pour quitter"
+
+![utilisateur existe deja](https://github.com/user-attachments/assets/60fa44f5-8428-469d-b6d7-b34ac00505a7)
+
+#Q2.16 
+
+ la fonction ManageAccentsAndCapitalLetters sert a "normaliser les lettres  tel que les accents   
+
+ on fait comprendre au script de remplacer les accents et autres caracteres par des lettres "normalisées" 
+
+ ![normalisation](https://github.com/user-attachments/assets/c8908ff1-68bb-487d-8747-64a42170cfbc)
+
+sur cette capture d'ecran on voit le prenom styrbjörn   changé en stryrbjorn a la creation du compte utilisateur 
+
+
+
+
+
 
 
  
