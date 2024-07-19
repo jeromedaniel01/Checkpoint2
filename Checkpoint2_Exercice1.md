@@ -28,6 +28,7 @@ apres reactivation  le ping est operationnel
 Q1.4
 J'active le dhcp  grace au parametre de ma carte reseau en cochant "obtenir une adresse IP automatiquement" dans les parametres IPV4
 ![activationdhcp](https://github.com/user-attachments/assets/6cb110d6-d53d-4c82-bab4-8042ab7fabd4)
+
 Q1.5
 Je vois que dans la configuration DHCP le debut d'adressage est 172.16.10.1 et la fin 172.16.10.1 
 mais il y a deux plages d'exclusions dans cet adressage qui sont 
@@ -36,6 +37,7 @@ debut 172.16.10.1 jusqu'a 172.16.10.19 et 172.16.10.241 jusqu'a 172.16.10.254
 Le client ne peut recevoir la premiere adresse car elle fait partie d'une plage d'exclusion 
 ce qui explique qu'il recoive la 172.16.10.20 
 ![ipconfigdhcp](https://github.com/user-attachments/assets/9538c4bf-c45f-4c15-9c26-5fdf687ef9f0)
+
 Q1.6
 Pour adresser une adresse particuliere il faut faire une reservation avec l'adresse MAC de la carte reseau 
 indiquez l'adresse souhaitée (tant qu'elle est dans le reseau bien entendu et si aucune autre reservation est deja en place pour cette adresse)
