@@ -42,7 +42,7 @@ J'ai simplemen demandé de n'ignorer que la premiere ligne du fichier .csv
 Ajout de la fonction "Description" 
 
 pour integrer ces informations  j'ai corrigé le script en y integrant la recherche d'info sur le fichier .CSV 
-une erreur dans l'ajout du groupe a integrer   ,il manquait un S a utilisateurS sinon le script ne peut ajouter les utilisateurs comme le groupe Utilisateur n'existe pas 
+ 
 
 
 ![ajout description](https://github.com/user-attachments/assets/819e6025-08ae-488b-9b53-f4b2a2c59fb0)
@@ -64,6 +64,41 @@ Pour afficher le mot de passe en vert ,j'ai modifié le script comme ceci
 ![script mot de passe en vert](https://github.com/user-attachments/assets/8abb69d9-6fbe-43df-b866-2e03d52945ac)
 
 ![mot de passe en vert](https://github.com/user-attachments/assets/28f57c69-8d31-49e0-9537-15129a40fbc8)
+
+
+#Q2.9
+
+J'ai configuré le fichier pour ajouter des variables et le chemin de creation du fichier Log 
+
+![ajout fichier log](https://github.com/user-attachments/assets/70c51bd3-c57f-47c5-a7ae-20b9f47fdae6)
+
+Je n'ai pas reussi pour la deuxieme methode 
+
+#Q2.10
+
+J'ai ajouté un paragraphe pour verifier l'existence de l'utilisateur et si c'est le cas une phrase s'affiche en rouge 
+
+![Verif UTIL](https://github.com/user-attachments/assets/8f736507-0f59-4df6-b8a0-b8d79f107156)
+
+
+#Q2.11
+
+
+ erreur dans l'ajout du groupe a integrer   ,il manquait un S a utilisateurS sinon le script ne peut ajouter les utilisateurs comme le groupe Utilisateur n'existe pas
+
+ #Q2.12
+
+ Ajout d'une variable $Name 
+
+ ![VarName](https://github.com/user-attachments/assets/c8762a13-5f74-43ef-aedb-bb9dcf8aba6d)
+
+ 
+
+
+
+
+
+
 
 
 
