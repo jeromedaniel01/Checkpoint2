@@ -92,6 +92,25 @@ J'ai ajouté un paragraphe pour verifier l'existence de l'utilisateur et si c'es
 
  ![VarName](https://github.com/user-attachments/assets/c8762a13-5f74-43ef-aedb-bb9dcf8aba6d)
 
+ #Q2.13
+
+ Pour que le mot de passe n'expire jamais ,changé dans la variable dans le boc user info   "PasswordNeverExpires" de false en true 
+
+ ![neverexpires](https://github.com/user-attachments/assets/cfa2c100-5709-4d59-a796-8fd3e7a5fcf1)
+
+#Q2.14
+
+Pour changer le mot de passe a  12 caracteres au lieu de 6 il faut changer l'information qui se trouve dans la ligne $length = 6 et ecrire $length = 12 
+
+![12caracteres](https://github.com/user-attachments/assets/f52d5a7c-85d4-449f-9b7a-20f07239ba7f)
+
+
+
+ 
+
+
+ 
+
  
 
 
