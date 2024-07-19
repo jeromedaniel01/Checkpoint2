@@ -12,6 +12,7 @@ client : 172.16.100.50/24
 
 Q1.2
 Pour reussir un ping sur la machine client avec le serveur ,j'ai simplement changer l'adresse ipv4 de la machine client pour qu'elle soit dans le reseau 
+
 ![remplacement ipv4 client png](https://github.com/user-attachments/assets/976b6032-c537-4eae-86a5-99682497a5e7)
 ![ping reussi ipv4](https://github.com/user-attachments/assets/fd6fbeaa-1576-4aeb-9a18-7f1ea6f1affb)
 
