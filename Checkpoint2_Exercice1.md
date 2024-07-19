@@ -26,7 +26,7 @@ apres reactivation  le ping est operationnel
 ![alt tag](![ping apresreacv6](https://github.com/user-attachments/assets/27376467-b96b-4c83-88a2-aafce03cd8ca))
 Q1.4
 J'active le dhcp  grace au parametre de ma carte reseau en cochant "obtenir une adresse IP automatiquement" dans les parametres IPV4
-![alt tag](![activationdhcp](https://github.com/user-attachments/assets/6cb110d6-d53d-4c82-bab4-8042ab7fabd4))
+![activationdhcp](https://github.com/user-attachments/assets/6cb110d6-d53d-4c82-bab4-8042ab7fabd4)
 Q1.5
 Je vois que dans la configuration DHCP le debut d'adressage est 172.16.10.1 et la fin 172.16.10.1 
 mais il y a deux plages d'exclusions dans cet adressage qui sont 
