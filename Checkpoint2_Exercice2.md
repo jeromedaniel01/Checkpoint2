@@ -48,6 +48,14 @@ une erreur dans l'ajout du groupe a integrer   ,il manquait un S a utilisateurS 
 ![ajout description](https://github.com/user-attachments/assets/819e6025-08ae-488b-9b53-f4b2a2c59fb0)
 
 
+![verifajoutdescrip](https://github.com/user-attachments/assets/d5b7682f-7f37-4192-a81e-c017abfd16f9)
+
+
+
+
+
+
+
 
 
 
