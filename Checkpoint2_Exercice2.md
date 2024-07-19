@@ -84,7 +84,7 @@ J'ai ajouté un paragraphe pour verifier l'existence de l'utilisateur et si c'es
 #Q2.11
 
 
- erreur dans l'ajout du groupe a integrer   ,il manquait un S a utilisateurS sinon le script ne peut ajouter les utilisateurs comme le groupe Utilisateur n'existe pas
+ erreur dans l'ajout du groupe a integrer,il manquait un S a utilisateurS sinon le script ne peut ajouter les utilisateurs comme le groupe Utilisateur n'existe pas
 
  #Q2.12
 
