@@ -38,6 +38,15 @@ J'ai simplemen demandé de n'ignorer que la premiere ligne du fichier .csv
 
 ![ignorer1ereligne](https://github.com/user-attachments/assets/baccf020-a446-4678-a052-8b908ef48fee)
 
+#Q2.6 
+Ajout de la fonction "Description" 
+
+pour integrer ces informations  j'ai corrigé le script en y integrant la recherche d'info sur le fichier .CSV 
+une erreur dans l'ajout du groupe a integrer   ,il manquait un S a utilisateurS sinon le script ne peut ajouter les utilisateurs comme le groupe Utilisateur n'existe pas 
+
+
+![ajout description](https://github.com/user-attachments/assets/819e6025-08ae-488b-9b53-f4b2a2c59fb0)
+
 
 
 
