@@ -1,0 +1,11 @@
+Checkpoint 2 
+
+Exercice 1
+
+Q1.1  
+Le ping ipv4 entre le serveur et le client ne fonctionne pas car ils ne sont pas dans le meme reseau 
+serveur : 172.16.10.10/24 
+client : 172.16.100.50/24
+
+
+
